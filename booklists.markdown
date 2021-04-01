@@ -8,9 +8,17 @@ permalink: /booklists/
 <summary>在读</summary>
 <pre>
 2021/3
-* Effective Modern C++
+* [✔]Effective Modern C++
+  感觉翻译的不太行，移动和右值引用那块还是不太清楚，后续重新看看英文版
 * Troubleshooting with the Windows Sysinternals Tools
-* 汇编语言
+  暂时停止阅读，感觉对windows的一些概念还是不够了解，等后面结合着Windows Internal一起读
+* [✔]汇编语言
+  大体读完了，有空把拓展实验做了
+
+2021/4
+* 敏捷软件开发 原则、模式与实践
+* 深度探索C++对象模型
+* 加密与解密
 </pre>
 </details>
 
@@ -28,7 +36,7 @@ permalink: /booklists/
 * [已读] [ Effective C++ ][8]
 * [已读] [ More Effective C++ ][9]
 * [已读] [ Effective STL ][10]
-* [部分] [ Effective Modern C++ ][11]
+* [已读] [ Effective Modern C++ ][11]
 * [部分] [ 深度探索C++对象模型 ][12]
 * [部分] [ C++语言的设计和演化 ][13]
 * [未读] [ C++覆辙录 ][14]
@@ -82,7 +90,7 @@ permalink: /booklists/
 * [部分] [ 数据库系统概念 ][50]
 * [部分] [ 计算机程序的构造和解释 ][51]
 * [未读] [ UNIX环境高级编程 ][52]
-* [部分] [ 汇编语言 ][53]
+* [已读] [ 汇编语言 ][53]
 * [未读] [ 计算机组成与设计 硬件/软件接口 (MIPS版本) ][54]
 * [部分] [ 编译原理 ][55]
 * [未读] [ 庖丁解牛linux内核分析 ][56]
@@ -93,6 +101,7 @@ permalink: /booklists/
 * [未读] [ 软技能代码之外的生存指南 ][61]
 * [未读] [ 深入理解java虚拟机 ][62]
 * [部分] [ 鸟哥的linux私房菜 基础学习篇 ][63]
+* [未读] [ 加密与解密 ][72]
 
 
 ## 数学
@@ -195,3 +204,4 @@ permalink: /booklists/
 [69]: https://book.douban.com/subject/1231910/
 [70]: https://book.douban.com/subject/35033507/
 [71]: https://book.douban.com/subject/4712532/
+[72]: https://book.douban.com/subject/30288807/
